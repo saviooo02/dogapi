@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+#redBtn{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+
+#yellowBtn{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+
+#greenBtn{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
